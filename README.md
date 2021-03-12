@@ -14,7 +14,7 @@
 
 ## 二、椭圆印章
 
-![img](https://pic2.zhimg.com/80/v2-a6c7e5530c9827df450563b42874f179_720w.jpg)
+![img](https://pic2.zhimg.com/80/v2-7c88cd8ca5d54fc42d1dc4dbd36451e5_720w.jpg)
 
 - 形状为椭圆形,尺寸为40*30mm
 - 外边宽1mm
